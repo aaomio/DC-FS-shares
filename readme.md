@@ -10,11 +10,13 @@ A Windows domain lab environment demonstrating Active Directory, DNS and a dedic
 
 ### Systems
 
-* **DC-01** — Domain Controller 
-* **FS-01** — File Server 
-* **CLIENT-01** — Domain Client 
+```text
+matrix.local
 
----
+DC-01      Domain Controller
+FS-01      File Server
+CLIENT-01  Domain Client
+```
 
 ## Network Configuration
 
@@ -98,14 +100,4 @@ C:\Shares\Private
 * [Client Domain Join](client-join.md) – Joining Windows clients to the domain
 * [Drive Mapping](client-map-drive.md) – Drive mapping configuration
 
----
 
-## Lab Architecture
-
-```text
-matrix.local
-
-DC-01      Domain Controller
-FS-01      File Server
-CLIENT-01  Domain Client
-```
