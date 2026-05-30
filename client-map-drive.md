@@ -6,7 +6,7 @@ This document covers manual mapping of FS-01 shared folders on CLIENT-01.
 
 ## Shared Path
 
--01 share:
+FS-01 share:
 
 ```text
 \\FS-01\Shares
