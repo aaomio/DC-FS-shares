@@ -1,6 +1,6 @@
 # Windows File Server Lab
 
-A Windows domain lab environment demonstrating Active Directory, DNS, Group Policy, and a dedicated File Server providing centralized network storage and access control.
+A Windows domain lab environment demonstrating Active Directory, DNS and a dedicated File Server providing centralized network storage and access control.
 
 ---
 
