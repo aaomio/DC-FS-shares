@@ -1,15 +1,15 @@
 # Manual Drive Mapping (FS01 Shares)
 
-This document covers manual mapping of FS01 shared folders on CLIENT-01.
+This document covers manual mapping of FS-01 shared folders on CLIENT-01.
 
 ---
 
 ## Shared Path
 
-FS01 share:
+-01 share:
 
 ```text
-\\FS01\Shares
+\\FS-01\Shares
 ```
 
 ---
@@ -43,7 +43,7 @@ cmd
 ```
 
 ```cmd
-net use Z: \\FS01\Shares
+net use Z: \\FS-01\Shares
 ```
 
 ---
@@ -51,7 +51,7 @@ net use Z: \\FS01\Shares
 ## Persistent Mapping
 
 ```cmd
-net use Z: \\FS01\Shares /persistent:yes
+net use Z: \\FS-01\Shares /persistent:yes
 ```
 
 ---
@@ -66,5 +66,5 @@ net use Z: /delete
 
 ## Notes
 
-* Ensure DNS is resolving FS01 correctly
+* Ensure DNS is resolving FS-01 correctly
 * Verify share permissions if access fails
