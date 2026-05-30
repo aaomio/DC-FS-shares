@@ -11,8 +11,6 @@ A Windows domain lab environment demonstrating Active Directory, DNS and a dedic
 ### Systems
 
 ```text
-matrix.local
-
 DC-01      Domain Controller
 FS-01      File Server
 CLIENT-01  Domain Client
