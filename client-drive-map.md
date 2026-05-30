@@ -1,6 +1,6 @@
 # Manual Drive Mapping (FS01 Shares)
 
-This document covers manual mapping of FS01 shared folders on CLIENT01.
+This document covers manual mapping of FS01 shared folders on CLIENT-01.
 
 ---
 
@@ -16,7 +16,7 @@ FS01 share:
 
 ## Map Network Drive (GUI Method)
 
-On CLIENT01:
+On CLIENT-01:
 
 Open File Explorer
 

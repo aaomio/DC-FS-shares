@@ -10,9 +10,9 @@ A Windows domain lab environment demonstrating Active Directory, DNS and a dedic
 
 ### Systems
 
-* **DC01** — Domain Controller (`192.168.1.199`)
-* **FS01** — File Server (`192.168.1.200`)
-* **CLIENT01** — Domain Client (DHCP or static assignment)
+* **DC-01** — Domain Controller 
+* **FS-01** — File Server 
+* **CLIENT-01** — Domain Client 
 
 ---
 
@@ -22,7 +22,7 @@ A Windows domain lab environment demonstrating Active Directory, DNS and a dedic
 
 All systems use the following DNS server:
 
-* `192.168.1.199`
+* `192.168.178.199`
 
 ---
 

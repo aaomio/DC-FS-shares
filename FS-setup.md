@@ -116,7 +116,7 @@ Network path:
 
 ## Access Test
 
-From CLIENT01:
+From CLIENT-01:
 
 * Open File Explorer
 * Navigate to:

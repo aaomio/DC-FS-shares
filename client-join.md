@@ -1,6 +1,6 @@
-# Windows 10 Client Domain Join (CLIENT01)
+# Windows 10 Client Domain Join (CLIENT-01)
 
-This guide covers joining **CLIENT01** to the **matrix.local** domain.
+This guide covers joining **CLIENT-01** to the **matrix.local** domain.
 
 ---
 
@@ -33,7 +33,7 @@ sysdm.cpl
 Rename the computer:
 
 ```text
-CLIENT01
+CLIENT-01
 ```
 
 Restart the system if prompted.
@@ -84,6 +84,6 @@ Domain: matrix.local
 
 On **DC01**, open **Active Directory Users and Computers** and confirm:
 
-* `CLIENT01` exists in the **Computers** container
+* `CLIENT-01` exists in the **Computers** container
 * The computer account is enabled
 
