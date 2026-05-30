@@ -1,4 +1,4 @@
-# Manual Drive Mapping (FS01 Shares)
+# Manual Drive Mapping (FS-01 Shares)
 
 This document covers manual mapping of FS-01 shared folders on CLIENT-01.
 
