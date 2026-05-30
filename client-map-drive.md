@@ -18,7 +18,7 @@ FS01 share:
 
 On CLIENT-01:
 
-Open File Explorer.
+Open **File Explorer**.
 
 Right-click **This PC**.
 
@@ -27,7 +27,7 @@ Select **Map network drive**.
 Configure:
 
 - **Drive letter:** `Z:`
-- **Folder:** `\\FS01\Shares`
+- **Folder:** `\\FS-01\Shares`
 
 Enable **Reconnect at sign-in**.
 
